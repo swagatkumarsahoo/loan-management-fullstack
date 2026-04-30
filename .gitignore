@@ -1,0 +1,27 @@
+# =========================
+# FRONTEND
+# =========================
+loan-frontend/node_modules/
+loan-frontend/dist/
+loan-frontend/.env
+loan-frontend/.env.*
+
+# =========================
+# BACKEND
+# =========================
+loan-management/target/
+loan-management/.mvn/
+loan-management/.idea/
+loan-management/*.log
+loan-management/.env
+loan-management/.env.*
+
+# =========================
+# GENERAL
+# =========================
+.vscode/
+.idea/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
